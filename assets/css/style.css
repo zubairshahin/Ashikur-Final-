@@ -1,0 +1,7 @@
+.offcanvas-body ul li{
+    list-style: none;
+    cursor: pointer;
+}
+#banner .container .hello{
+    padding: 30px;
+}
